@@ -1,0 +1,2 @@
+# SeleniumPyCharm
+Basic Selenium scripts
