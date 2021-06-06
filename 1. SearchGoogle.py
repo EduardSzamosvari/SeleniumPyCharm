@@ -1,5 +1,5 @@
 import time
-
+# saa
 from selenium import webdriver
 driver = webdriver.Chrome(executable_path="D:\\Curs Software tester\\Softuri\chromedriver.exe")
 
